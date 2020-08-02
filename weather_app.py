@@ -151,14 +151,3 @@ try:
     
 except:
     print('Erro ao processar a solicitação. Entre em contato com o suporte.')
-    
-
-
-
-        
-
-
-
-
-
-    
